@@ -1,3 +1,6 @@
 # По данной ссылке предоставлено руководство разработчика и руководство пользователя, а также представлены первоначальные этапы создания проекта.
 
-# Ссылка -> https://nanoemerald.gitbook.io/documentation/
+# NanoEmerald - http://yataschk.beget.tech/%d1%81%d1%82%d0%b0%d1%82%d1%8c%d0%b8/
+
+# Ссылка на документацию -> https://nanoemerald.gitbook.io/documentation/
+# Ссылка на файлы сайта ->  https://dropmefiles.com/3FM80
